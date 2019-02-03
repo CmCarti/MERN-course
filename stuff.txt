@@ -19,5 +19,7 @@ add: "scripts": {
 
 to package.json
 
+npm run server - starts server
+
 
 

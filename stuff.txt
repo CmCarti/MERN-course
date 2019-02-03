@@ -1,0 +1,23 @@
+qzRd8IPFm9wD
+
+mongodb://admin:qzRd8IPFm9wD@ds119765.mlab.com:19765/devconnector-chadc
+
+
+///Dependencies\\\
+npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator
+
+///Dev Dependencies\\\
+npm i -D nodemon
+
+
+///Setup Nodemon\\\
+
+add: "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+
+to package.json
+
+
+
